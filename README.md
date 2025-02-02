@@ -1,5 +1,3 @@
-#TMUber
-
 This project extends the TMUber ride-sharing system by adding new functionality such as service request queueing, driver location tracking, and improved user management. It utilizes Java Collections (Maps & Queues), File I/O, and custom exception handling to simulate a real-world Uber-like system.
 
 Features Implemented
